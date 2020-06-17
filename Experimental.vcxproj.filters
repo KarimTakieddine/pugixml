@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="I:\Repositories\cell_engine\pugixml\CMakeFiles\56f8654ef4cdb3bf187d74490c5fa5d1\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Repositories\cell_engine\pugixml\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I:\Repositories\cell_engine\pugixml\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CE667156-15C4-3CB3-9A67-A3FB15041ECD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
